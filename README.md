@@ -1,5 +1,5 @@
 # Arch-linux-install-tutorial
-full-command to install the arch-linux 
+Full command to install the arch-linux 
 
 __After you startup the os,by type these command can install the os successfully__   
 dhcpcd  
